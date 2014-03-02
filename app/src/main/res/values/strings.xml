@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+  <string name="text_view">I am a TextView</string>
+  <string name="app_name">HoneyCombDemo</string>
+
+  <string name="action_settings">actionSettings</string>
+  
+  <string name="button_change">Change</string>
+  <string name="button_dummy">Dummy</string>
+  <string name="button_send">Send</string>
+  
+  <string name="content_1">Content 1</string>
+  <string name="content_2">Content 2</string>
+   
+  <string name="content_description">Content Description</string>
+  
+  <string name="label_about">About Fragment</string>
+  <string name="label_another">Another Fragment</string> 
+  <string name="label_fragment_one">First Fragment</string>
+  
+  <string name="main_menu_tab1">tab1</string>
+  <string name="main_menu_tab2">tab2</string>
+  <string name="main_menu_tab3">tab3</string>
+  
+  <string name="option_menu_1">Option 1</string>
+  <string name="option_menu_2">Option 2</string>
+  <string name="option_menu_3">Option 3</string>
+ 
+  <string name="simple_label">SimpleLabelFragment</string>
+</resources>
